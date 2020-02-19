@@ -168,6 +168,7 @@ adam.huluxia.vip/api/qrcode/api.php?text=内容&size=大小(数字)
 ```
 
 ### 查看qq是否电脑在线
+用不了
 如题
 ```markdown
 请求方式:get
@@ -216,6 +217,7 @@ adam.huluxia.vip/api/baidu/url.php?url=域名
 ```
 
 ### 天气预报（好东西）
+暂时用不了
 如题
 ```markdown
 请求方式:get
